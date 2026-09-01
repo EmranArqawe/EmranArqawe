@@ -15,12 +15,12 @@ Software Engineering student at Al-Hussein Bin Talal University and Front-End De
 
 * **[Leon | Creative Agency Template](https://github.com/EmranArqawe/leon-template-01)**
   * Modern, minimal landing page engineered with HTML5, CSS Flexbox, and CSS Grid.
-* **[E-Commerce Clothing Store](https://github.com/EmranArqawe/E-Commerce-Clothing-Store-Web-Application)**
-  * Developed an interactive front-end web store featuring dynamic pricing, discount logic, and tax adjustments.
 * **[Social Links Profile](https://github.com/EmranArqawe/social-links-profile)**
   * Responsive user profile layout designed for social media showcase.
 * **[Restaurant Order Management System](https://github.com/EmranArqawe/Restaurant-Order-Management-System)**
   * Built a C# desktop application using Visual Studio 2022 featuring order tracking, billing calculations, and service-mode management.
+* **[E-Commerce Clothing Store](https://github.com/EmranArqawe/E-Commerce-Clothing-Store-Web-Application)**
+  * Developed an interactive front-end web store featuring dynamic pricing, discount logic, and tax adjustments.
 
 ---
 
