@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&fontColor=fff&animation=fadeIn" width="100%" />
+</div>
+
 # 👋 I'm Emran Arqawe
 
-Software Engineering student at Al-Hussein Bin Talal University and Front-End Developer. Passionate about building functional, user-centric web and desktop applications.
+Software Engineering student at Al-Hussein Bin Talal University and Front-End Developer, specializing in crafting responsive, user-centric web applications with clean, modern architectures.
 
 ---
 
@@ -11,16 +15,16 @@ Software Engineering student at Al-Hussein Bin Talal University and Front-End De
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
+* **[Kasper | Creative Agency Template](https://github.com/EmranArqawe/kasper-template-02)**
+  * Modern, responsive agency web template engineered with HTML5, CSS Flexbox, and CSS Grid.
 * **[Leon | Creative Agency Template](https://github.com/EmranArqawe/leon-template-01)**
   * Modern, minimal landing page engineered with HTML5, CSS Flexbox, and CSS Grid.
 * **[Social Links Profile](https://github.com/EmranArqawe/social-links-profile)**
   * Responsive user profile layout designed for social media showcase.
 * **[Restaurant Order Management System](https://github.com/EmranArqawe/Restaurant-Order-Management-System)**
   * Built a C# desktop application using Visual Studio 2022 featuring order tracking, billing calculations, and service-mode management.
-* **[E-Commerce Clothing Store](https://github.com/EmranArqawe/E-Commerce-Clothing-Store-Web-Application)**
-  * Developed an interactive front-end web store featuring dynamic pricing, discount logic, and tax adjustments.
 
 ---
 
